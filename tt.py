@@ -1,1 +1,2 @@
-ttt
+#ttt
+print("hello!")
